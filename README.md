@@ -1,6 +1,7 @@
 # CounterPythonProgram
 This program takes a nucleotide sequence as a string, and prints the ratio that shows the amount of each nucleotide letter. (A,C,T,G)
-'''S="ATATGCT"
+
+S="ATATGCT"
 
 a=0
 t=0
@@ -21,5 +22,5 @@ for i in S:
 print (float(a)/float(len(S)))
 print (float(t)/float(len(S)))
 print (float(c)/float(len(S)))
-print (float(g)/float(len(S)))'''
+print (float(g)/float(len(S)))
                 
